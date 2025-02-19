@@ -5,4 +5,4 @@
 <li>scratch and python "what's your name ?" ; rubric : teaching string data types , getter / setter methods , reserved words </li>
 <li>twitch chillies and peppers ; teaching integer data types , incrementing / decrementing , decision trees , tool stack</li>
 <li>hat / no hat ; teaching UI/UX , machine learning , prompt engineering , HTML , javascript , tool stack</li></ul>
-<p>each one of these lessons have enough to create a whole semester of content , if understood well. this material is designed to work a all ages grades 3 - 5 , all the way up to undergrad level.</p>
+<p>if understood well. this material is designed to work a all ages grades 3 - 5 , all the way up to undergrad level.</p>
