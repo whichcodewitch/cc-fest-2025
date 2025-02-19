@@ -10,6 +10,7 @@ def greeting():
 
 greeting()
 
+# passing variable by reference as an argument into a function
 def greeting_w_argument(name):
   print("hello "+name)
 
