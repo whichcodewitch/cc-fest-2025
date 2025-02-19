@@ -1,5 +1,5 @@
 <h1>WCW sample lessons for the STEM teacher</h1>
-<p>Which Code Witch is a education method by M DeNardo, teaching software engineering through the lens of creative coding</p>
+<p>Which Code Witch is a education method by M DeNardo (MDN), teaching software engineering through the lens of creative coding</p>
 <h2>Lessons</h2>
 <ul>
 <li>scratch and python "what's your name ?" ; rubric : teaching string data types , getter / setter methods , reserved words </li>
