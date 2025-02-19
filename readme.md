@@ -1,5 +1,4 @@
 <h1>WCW sample lessons for the STEM teacher</h1>
-<p>hi 1 we noticed that you teach STEM/STEAM and were looking for some starter lessons, and direction on how to teach software engineering to kids.</p>
 <p>Which Code Witch is a method and practice by M DeNardo of teaching software engineering through the lens of creative coding</p>
 <h2>Lessons</h2>
 <ul>
