@@ -3,7 +3,5 @@
 <ul><li>download project</li><li>upload to twitch</li>
   <li>add html to glitch html file</li></ul>
   <p>glitch page link : https://chillis-and-peppers.glitch.me</br>
-  glitch code link : https://glitch.com/edit/#!/chillis-and-peppers</br>
-  http://twinery.org/</br>
-  https://glitch.com/</p>
+  glitch code link : https://glitch.com/edit/#!/chillis-and-peppers</p>
 
