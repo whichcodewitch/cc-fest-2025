@@ -5,4 +5,4 @@
 <li>scratch and python "what's your name ?" ; teaching string data types , concatenation, strict typing, getter / setter , reserved words , functions </li>
 <li>twitch chillies and peppers ; teaching integer data types , incrementing / decrementing , decision trees , tool stack</li>
 <li>hat / no hat ; teaching UI/UX , machine learning , prompt engineering , HTML , javascript , tool stack</li></ul>
-<p>this curriulum is age agnostic , designed to primarily to work w grades 3rd - 5th ; can easily be configured to any classroom.</p>
+<p>this curriulum is designed to primarily to work w grades 3rd - 5th ; can easily be configured to any classroom.</p>
